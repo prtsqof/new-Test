@@ -1,6 +1,8 @@
+
 1 God
 2 Main
 3 Job
 4 name
 5 home
 6 money
+
